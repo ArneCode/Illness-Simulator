@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:black;
+}
+canvas {
+  display: block;
+}
+#numinfected{
+  color:yellow;
+}
+#numinfectuous{color:red}
+#numinfectable{color:blue}
+#numremoved{color:rgb(127, 255, 0)}
+.fixed{
+position:fixed;
+}
